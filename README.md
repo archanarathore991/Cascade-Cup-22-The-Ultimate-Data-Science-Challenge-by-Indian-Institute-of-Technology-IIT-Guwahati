@@ -1,1 +1,3 @@
 # Cascade-Cup-22-The-Ultimate-Data-Science-Challenge-by-Indian-Institute-of-Technology-IIT-Guwahati
+Project description-
+The aim of this project is to predict rider-driven cancellations before getting cancelled or delivered. As a first step, I imported the training data and cleaned it to prepare it for further analysis and model building. The next step was data preprocessing and feature selection, so we deleted the columns that weren't contributing to the result or were highly correlated. In order to predict the outcomes, we used a variety of machine learning techniques, including Logistic regression, Random forest classifier, Decision tree, and k-nearest neighbor classifier.
